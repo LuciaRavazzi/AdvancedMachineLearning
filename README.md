@@ -1,6 +1,6 @@
-# Master_AdvancedMachineLearning
+# Advanced machine learning
 
-This project's aim is the classification of fruit images from the dataset 'Fruits 360' by implementing neural networks. Tha data is contained in the zip file 'fruit-360'.
+This project's aim is the classification of fruit images from the dataset 'Fruits 360' by implementing neural networks. Tha data is contained could be downloaded from https://www.kaggle.com/moltean/fruits.
 
 All the code was implemented through Google Colab platform and it was written in Python. 
 
