@@ -7,14 +7,8 @@ All the code was implemented through Google Colab platform and it was written in
 
 The project is made up of different folders described as follows:
 <ul>
-	<li> Dataset.
-		<ul>
-		<li> fruit-360.zip: original dataset downloaded from kaggle website https://www.kaggle.com/moltean/fruits </li>
-		<li> multiple_fruits_label.csv: hand-crafted labels of multi-fruits dataset. </li>
-	</li>
-
-	<li> Notebook/Script: the code is divided in 5 Python notebooks that implement different goals, in particular:
-		<ul>
+<li> Notebook/Script: the code is divided in 5 Python notebooks that implement different goals, in particular:
+	<ul>
 		<li> 0_Exploration.ipybn: contains some initial consideration about the data as well as the visualization of some images, 
 				       both before and after having applyed data augmentation. It also contains some plots that shows 
 				       the labels distribution and the reconstruction of a video from which the images of a fruit were 
@@ -35,8 +29,7 @@ The project is made up of different folders described as follows:
 				  	  been also implemented as a module in the python file 'ObjDetector'. It wasn't include in this repository because its size is too large.
 		</li>
 		<li> ObjDetector.py: module for the object detection task. </li>
-		</ul>
-	</li>
+	</ul>
 	<li> Report: Report.pdf: report with all explanations and comments about this project. </li>
 
 </ul>
