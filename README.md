@@ -6,7 +6,7 @@ All the code was implemented through Google Colab platform and it was written in
 
 
 The project is made up of different folders described as follows:
-
+<ul>
 	- Dataset.
 		- fruit-360.zip: original dataset downloaded from kaggle website https://www.kaggle.com/moltean/fruits
 		- multiple_fruits_label.csv: hand-crafted labels of multi-fruits dataset.
@@ -35,13 +35,11 @@ The project is made up of different folders described as follows:
 					  The two main tests done on this dataset are the implementation of LIME 
 				  	  (a type of explainable AI) and an algorithm that transforms the classifiers 					 
 				  	  previously trained on single fruits into an object detector. This algorithm has 
-				  	  been also implemented as a module in the python file 'ObjDetector'.
+				  	  been also implemented as a module in the python file 'ObjDetector'. It wasn't include in this repository because its size is too large.
 
 		- ObjDetector.py: module for the object detection task.
-
-	- Presentation
-		- Presentation.pdf: presentation for oral exam.
 
 	- Report	
 		- Report.pdf: report with all explanations and comments about this project.
 
+</ul>
